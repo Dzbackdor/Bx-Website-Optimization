@@ -1,6 +1,10 @@
 # 🤖 Bx-Website-Optimization
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.15%2B-green.svg)](https://selenium-python.readthedocs.io/)
 
 Bot otomatis untuk mengirim komentar dengan backlink ke berbagai platform website menggunakan sistem template yang cerdas dan adaptive dengan machine learning capabilities.
+
+<img src="/moz-pro-without-api-key.png" width="600" alt="Bx-Website-Optimization">
 
 ## ✨ Fitur Utama
 
@@ -304,8 +308,6 @@ results/          # Berisi hasil eksekusi
 - ✅ Jangan gunakan akun utama/pribadi
 - ✅ Backup file akun.txt secara terpisah
 - ✅ Gunakan password yang kuat
-- ❌ Jangan share akun.txt ke orang lain
-- ❌ Jangan commit file sensitif ke repository
 
 ## 📋 Checklist Sebelum Menjalankan
 
