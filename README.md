@@ -1,6 +1,7 @@
 # 🤖 Bx-Website-Optimization
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.15%2B-green.svg)](https://selenium-python.readthedocs.io/)
+
 Bot otomatis untuk mengirim komentar dengan backlink ke berbagai platform website menggunakan sistem template yang cerdas dan adaptive dengan machine learning capabilities.
 
 ## ✨ Fitur Utama
@@ -16,7 +17,7 @@ Bot otomatis untuk mengirim komentar dengan backlink ke berbagai platform websit
 - 💻 **Command Line Interface** - Kontrol penuh via terminal
 - 🔗 **Smart Link Processing** - Format link otomatis sesuai platform
 
-<img src="/moz-pro-without-api-key.png" width="600" alt="Bx-Website-Optimization">
+<img src="/backlink.png" width="600" alt="Bx-Website-Optimization">
 
 ## 📁 Struktur Project
 
