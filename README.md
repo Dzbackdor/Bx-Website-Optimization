@@ -106,7 +106,7 @@ secretpass789
 - Gunakan akun yang valid dan aktif
 - Pastikan password benar
 - Email harus sesuai dengan akun
-- Satu baris = satu akun
+
 
 ## 🎯 Cara Penggunaan
 
