@@ -1,0 +1,40 @@
+name: WordPress Generic Template
+version: 1.0.0
+domains:
+- drbest.in
+- www.storiamito.it
+- thriftynomads.com
+detection_patterns:
+  wordpress_indicators:
+  - wp-content
+  - wp-includes
+  - wordpress
+  - '#commentform'
+  - input[name='author']
+  form_selectors:
+  - '#commentform'
+  - '#respond'
+  - .comment-form
+  - form[id*='comment']
+settings:
+  requires_login: false
+  comment_moderation: true
+  max_comment_length: 500
+  auto_learn: true
+  link_format: auto
+  browser_cleanup:
+    enabled: false
+    when: never
+selectors:
+  comment_form: '#commentform'
+  name_field: input[name='author']
+  email_field: input[name='email']
+  website_field: input[name='url']
+  comment_field: textarea[name='comment']
+  submit_button:
+  - input[type='submit']
+  - button[type='submit']
+  - input[name='submit']
+  - button[name='submit']
+  - '#submit'
+  - .submit-btn
