@@ -4,7 +4,7 @@
 
 Bot otomatis untuk mengirim komentar dengan backlink ke berbagai platform website menggunakan sistem template yang cerdas dan adaptive dengan machine learning capabilities.
 
-<img src="/moz-pro-without-api-key.png" width="600" alt="Bx-Website-Optimization">
+<img src="/backlink.png" width="600" alt="Bx-Website-Optimization">
 
 ## ✨ Fitur Utama
 
